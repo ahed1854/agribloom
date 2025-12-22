@@ -1,0 +1,39 @@
+.overlay-box {
+  position: absolute;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.4);
+  color: white;
+  font-size: 30px;
+  border-radius: 8px;
+  z-index: 10;
+  text-align: center;
+}
+
+
+.top-left {
+  top: 20%;
+  left: 10%;
+  height: 22%;
+  width: 23%;
+
+}
+
+.bottom-right {
+  bottom: 67%;
+  right: 30%;
+  height: 22%;
+  width: 23%;
+}
+
+.center {
+  top: 30%;
+  right: 1%;
+  transform: translate(-50%, -50%);
+  height: 22%;
+  width: 23%;
+}
+
+.caroimg{
+  height: 600px;
+  object-fit: cover;
+}
