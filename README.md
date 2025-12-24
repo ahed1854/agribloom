@@ -90,20 +90,6 @@ We follow established conventions to ensure high code quality, readability, and 
 
 ***
 
-## The Figma Design Process
-
-We designed the user interfaces using Figma to ensure a user-friendly experience and consistent visual design. The design process helped us:
-
-1. **Visualize User Flows** for different user roles
-2. **Create Consistent UI Components** with proper spacing and typography
-3. **Test Responsive Design** across different screen sizes
-4. **Implement Accessibility** considerations from the start
-5. **Gather Feedback** early in the development process
-
-You can view the complete design system and prototypes here: [Figma Design Link](https://www.figma.com/file/example-design-link)
-
-***
-
 ## Setup & Installation
 
 ### **Prerequisites:**
